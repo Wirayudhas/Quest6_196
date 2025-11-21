@@ -27,3 +27,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.example.myarsitekturmvvm.R
 
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun FormIsian(
+    jenisK:List<String> = listOf("Laki-laki", "Perempuan"),
+    OnSubmitBtnClick : () -> Unit
+)
