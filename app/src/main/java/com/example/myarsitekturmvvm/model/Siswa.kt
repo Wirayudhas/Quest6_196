@@ -1,4 +1,3 @@
-package com.example.myarsitekturmvvm.model;
+package com.example.myarsitekturmvvm.model
 
-public class Siswa {
-}
+
