@@ -1,5 +1,3 @@
-TampilSiswa.kt
-
 package com.example.myarsitekturmvvm.view
 
 import androidx.compose.foundation.layout.Arrangement
